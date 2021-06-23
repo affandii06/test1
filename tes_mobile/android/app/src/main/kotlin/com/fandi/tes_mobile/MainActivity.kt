@@ -1,0 +1,6 @@
+package com.fandi.tes_mobile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
